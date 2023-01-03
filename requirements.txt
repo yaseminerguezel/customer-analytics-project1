@@ -1,0 +1,7 @@
+Pandas
+NumPy
+Scikit-learn
+Seaborn
+Matplotlib
+Tensorflow
+pickle
